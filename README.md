@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace with your actual banner image link -->
-  <img src="https://via.placeholder.com/1200x400/000000/ff0000?text=ARNAVOULT:+ISSUE+%2301" alt="Arnavoult Comic Banner" width="100%" />
+  <img src="profile.png" alt="Arnavoult Comic Banner" width="100%" />
 </div>
 
 <br>
