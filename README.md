@@ -1,30 +1,30 @@
-<div align="center" style="background-color: #050505; border: 1px solid #ff003c; padding: 40px 20px;">
+<div align="center" style="background-color: #050505; border: 2px solid #ff003c; border-radius: 10px; padding: 30px 20px; box-shadow: 0 0 15px rgba(255, 0, 60, 0.3);">
 
-  <h1 style="color: #00ffff; font-family: 'Courier New', Courier, monospace; text-shadow: 0 0 8px #00ffff; margin-top: 0;">root@arnav_pal:~#</h1>
+  <h1 style="color: #00ffff; font-family: 'Courier New', Courier, monospace; text-shadow: 0 0 10px #00ffff; margin-top: 0;">root@arnav_pal:~#</h1>
   
-  <p style="color: #e0e0e0; font-family: monospace; font-size: 16px;">
-    <b><span style="color: #ff003c;">&gt;</span> B.Tech CSE (AI) | SDE & Artificial Intelligence Architect</b>
+  <p style="color: #ffffff; font-family: monospace; font-size: 16px;">
+    <b><span style="color: #ff003c; text-shadow: 0 0 5px #ff003c;">&gt;</span> B.Tech CSE (AI) | SDE & Artificial Intelligence Architect</b>
   </p>
   
-  <p style="color: #999; font-family: monospace; max-width: 750px; margin: 0 auto; line-height: 1.6;">
+  <p style="color: #a0a0a0; font-family: monospace; max-width: 750px; margin: 0 auto; line-height: 1.6;">
     I operate at the intersection of complex generative models and robust backend architectures. From engineering real-time data pipelines and reinforcement learning agents to unlocking new computer vision capabilities, I build highly optimized systems that manipulate complex data landscapes with precision.
   </p>
   
-  <p style="font-family: monospace; font-size: 14px; margin-top: 25px;">
-    <span style="color: #00ffff;">[</span> <a href="https://linkedin.com/in/YOUR_LINKEDIN" style="color: #ff003c; text-decoration: none; text-shadow: 0 0 5px #ff003c;">LINKEDIN</a> <span style="color: #00ffff;">]</span> 
-    <span style="color: #00ffff;">[</span> <a href="mailto:pal.arnav68@gmail.com" style="color: #ff003c; text-decoration: none; text-shadow: 0 0 5px #ff003c;">EMAIL</a> <span style="color: #00ffff;">]</span> 
-    <span style="color: #00ffff;">[</span> <a href="tel:+919380751527" style="color: #ff003c; text-decoration: none; text-shadow: 0 0 5px #ff003c;">PHONE</a> <span style="color: #00ffff;">]</span> 
+  <p style="font-family: monospace; font-size: 14px; margin: 25px 0;">
+    <span style="color: #00ffff;">[</span> <a href="https://linkedin.com/in/YOUR_LINKEDIN" style="color: #ff003c; text-decoration: none; text-shadow: 0 0 5px #ff003c;">LINKEDIN</a> <span style="color: #00ffff;">]</span> &nbsp;&nbsp;
+    <span style="color: #00ffff;">[</span> <a href="mailto:pal.arnav68@gmail.com" style="color: #ff003c; text-decoration: none; text-shadow: 0 0 5px #ff003c;">EMAIL</a> <span style="color: #00ffff;">]</span> &nbsp;&nbsp;
+    <span style="color: #00ffff;">[</span> <a href="tel:+919380751527" style="color: #ff003c; text-decoration: none; text-shadow: 0 0 5px #ff003c;">PHONE</a> <span style="color: #00ffff;">]</span> &nbsp;&nbsp;
     <span style="color: #00ffff;">[</span> <a href="https://github.com/ArnavPal" style="color: #ff003c; text-decoration: none; text-shadow: 0 0 5px #ff003c;">GITHUB</a> <span style="color: #00ffff;">]</span>
   </p>
   
-  <p style="color: #00ffff; font-family: monospace; margin-bottom: 30px;">
+  <p style="color: #00ffff; font-family: monospace; text-shadow: 0 0 5px #00ffff; margin-bottom: 25px;">
     <i>// "People live their lives bound by what they accept as correct and true. That is how they define 'Reality'."</i>
   </p>
 
-  <br>
+  <hr style="border: 0; height: 1px; background: #ff003c; width: 80%; margin: 20px auto; box-shadow: 0 0 8px #ff003c;">
 
-<!-- NEON RED ASCII ART TERMINAL -->
-<pre style="font-family: 'Courier New', Courier, monospace; line-height: 2.5px; font-size: 2.5px; letter-spacing: 0; color: #ff003c; text-shadow: 0 0 4px #ff003c; margin-bottom: 0;">
+  <!-- COMPACT CYBERPUNK ASCII ART -->
+  <pre style="font-family: 'Courier New', Courier, monospace; line-height: 3px; font-size: 3px; letter-spacing: 0; color: #ff003c; text-shadow: 0 0 4px #ff003c; overflow-x: auto; margin: 20px 0;">
 [%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -170,13 +170,14 @@
 %%%%%%%%%%%@*-*@%:%@%%%%%@@#                                                                                     -@@@%*+-.        :=#%@@@%@#-#@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%@#-+#-*@%%%%%%%@%                                                                                     -+-:         .-+#%@@%%%%@#:#@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@
 %%%%%%%%%%%%@#= +@%%%%%%%%@%:                                                                                                 -+#%@@@%%%%%%%*-+-%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@]
-</pre>
+  </pre>
+
 </div>
 
 <br>
 
-<div align="center">
-  <h3 style="color: #ff003c; font-family: 'Courier New', Courier, monospace;">// THE_SKILL_TREE.exe</h3>
+<div align="center" style="background-color: #050505; border: 2px solid #00ffff; border-radius: 10px; padding: 25px; box-shadow: 0 0 15px rgba(0, 255, 255, 0.2);">
+  <h3 style="color: #ff003c; font-family: 'Courier New', Courier, monospace; text-shadow: 0 0 8px #ff003c;">// THE_SKILL_TREE.exe</h3>
 
   <p style="color: #00ffff; font-family: monospace;">&gt; Loading Core Protocols: [ Artificial_Intelligence & Vision ]</p>
   <p>
