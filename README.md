@@ -1,10 +1,30 @@
-<div align="center">
+<div align="center" style="background-color: #050505; border: 1px solid #ff003c; padding: 40px 20px;">
+
+  <h1 style="color: #00ffff; font-family: 'Courier New', Courier, monospace; text-shadow: 0 0 8px #00ffff; margin-top: 0;">root@arnav_pal:~#</h1>
   
-<table align="center" border="0" cellpadding="20" cellspacing="0" width="100%" style="background-color: #050505; border: 1px solid #ff003c;">
-  <tr>
-    <td align="left" width="55%">
+  <p style="color: #e0e0e0; font-family: monospace; font-size: 16px;">
+    <b><span style="color: #ff003c;">&gt;</span> B.Tech CSE (AI) | SDE & Artificial Intelligence Architect</b>
+  </p>
+  
+  <p style="color: #999; font-family: monospace; max-width: 750px; margin: 0 auto; line-height: 1.6;">
+    I operate at the intersection of complex generative models and robust backend architectures. From engineering real-time data pipelines and reinforcement learning agents to unlocking new computer vision capabilities, I build highly optimized systems that manipulate complex data landscapes with precision.
+  </p>
+  
+  <p style="font-family: monospace; font-size: 14px; margin-top: 25px;">
+    <span style="color: #00ffff;">[</span> <a href="https://linkedin.com/in/YOUR_LINKEDIN" style="color: #ff003c; text-decoration: none; text-shadow: 0 0 5px #ff003c;">LINKEDIN</a> <span style="color: #00ffff;">]</span> 
+    <span style="color: #00ffff;">[</span> <a href="mailto:pal.arnav68@gmail.com" style="color: #ff003c; text-decoration: none; text-shadow: 0 0 5px #ff003c;">EMAIL</a> <span style="color: #00ffff;">]</span> 
+    <span style="color: #00ffff;">[</span> <a href="tel:+919380751527" style="color: #ff003c; text-decoration: none; text-shadow: 0 0 5px #ff003c;">PHONE</a> <span style="color: #00ffff;">]</span> 
+    <span style="color: #00ffff;">[</span> <a href="https://github.com/ArnavPal" style="color: #ff003c; text-decoration: none; text-shadow: 0 0 5px #ff003c;">GITHUB</a> <span style="color: #00ffff;">]</span>
+  </p>
+  
+  <p style="color: #00ffff; font-family: monospace; margin-bottom: 30px;">
+    <i>// "People live their lives bound by what they accept as correct and true. That is how they define 'Reality'."</i>
+  </p>
+
+  <br>
+
 <!-- NEON RED ASCII ART TERMINAL -->
-<pre style="font-family: 'Courier New', Courier, monospace; line-height: 4px; font-size: 4px; letter-spacing: 0; color: #ff003c; text-shadow: 0 0 5px #ff003c;">
+<pre style="font-family: 'Courier New', Courier, monospace; line-height: 2.5px; font-size: 2.5px; letter-spacing: 0; color: #ff003c; text-shadow: 0 0 4px #ff003c; margin-bottom: 0;">
 [%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -151,81 +171,65 @@
 %%%%%%%%%%%@#-+#-*@%%%%%%%@%                                                                                     -+-:         .-+#%@@%%%%@#:#@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@
 %%%%%%%%%%%%@#= +@%%%%%%%%@%:                                                                                                 -+#%@@@%%%%%%%*-+-%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@]
 </pre>
-    </td>
-    <td width="45%">
-      <h1 style="color: #00ffff; font-family: 'Courier New', Courier, monospace;">root@arnav_pal:~#</h1>
-      <p style="color: #e0e0e0; font-family: monospace;"><b><span style="color: #ff003c;">&gt;</span> B.Tech CSE (AI) | SDE & Artificial Intelligence Architect</b></p>
-      <p style="color: #999; font-family: monospace;">I operate at the intersection of complex generative models and robust backend architectures. From engineering real-time data pipelines and reinforcement learning agents to unlocking new computer vision capabilities, I build highly optimized systems that manipulate complex data landscapes with precision.</p>
-      
-      <p style="font-family: monospace;">
-        <span style="color: #00ffff;">[</span> <a href="https://linkedin.com/in/YOUR_LINKEDIN" style="color: #ff003c; text-decoration: none;">LINKEDIN</a> <span style="color: #00ffff;">]</span> 
-        <span style="color: #00ffff;">[</span> <a href="mailto:pal.arnav68@gmail.com" style="color: #ff003c; text-decoration: none;">EMAIL</a> <span style="color: #00ffff;">]</span> 
-        <span style="color: #00ffff;">[</span> <a href="tel:+919380751527" style="color: #ff003c; text-decoration: none;">PHONE</a> <span style="color: #00ffff;">]</span> 
-        <span style="color: #00ffff;">[</span> <a href="https://github.com/ArnavPal" style="color: #ff003c; text-decoration: none;">GITHUB</a> <span style="color: #00ffff;">]</span>
-      </p>
-      
-      <p style="color: #00ffff; font-family: monospace;"><i>// "People live their lives bound by what they accept as correct and true. That is how they define 'Reality'."</i></p>
-    </td>
-  </tr>
-</table>
+</div>
 
 <br>
 
-<h3 style="color: #ff003c; font-family: 'Courier New', Courier, monospace;">// THE_SKILL_TREE.exe</h3>
+<div align="center">
+  <h3 style="color: #ff003c; font-family: 'Courier New', Courier, monospace;">// THE_SKILL_TREE.exe</h3>
 
-<p style="color: #00ffff; font-family: monospace;">&gt; Loading Core Protocols: [ Artificial_Intelligence & Vision ]</p>
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=ff003c" />
-  <img src="https://img.shields.io/badge/Stable_Diffusion-000000?style=for-the-badge&logo=stablediffusion&logoColor=ff003c" />
-  <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=ff003c" />
-  <img src="https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge&logoColor=ff003c" />
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-000000?style=for-the-badge&logoColor=ff003c" />
-  <img src="https://img.shields.io/badge/Gymnasium-000000?style=for-the-badge&logoColor=ff003c" />
-</p>
+  <p style="color: #00ffff; font-family: monospace;">&gt; Loading Core Protocols: [ Artificial_Intelligence & Vision ]</p>
+  <p>
+    <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=ff003c" />
+    <img src="https://img.shields.io/badge/Stable_Diffusion-000000?style=for-the-badge&logo=stablediffusion&logoColor=ff003c" />
+    <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=ff003c" />
+    <img src="https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge&logoColor=ff003c" />
+    <img src="https://img.shields.io/badge/Reinforcement_Learning-000000?style=for-the-badge&logoColor=ff003c" />
+    <img src="https://img.shields.io/badge/Gymnasium-000000?style=for-the-badge&logoColor=ff003c" />
+  </p>
 
-<p style="color: #00ffff; font-family: monospace;">&gt; Loading Languages: [ Systems_&_Scripts ]</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ffff" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00ffff" />
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00ffff" />
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ffff" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ffff" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ffff" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ffff" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00ffff" />
-</p>
+  <p style="color: #00ffff; font-family: monospace; margin-top: 20px;">&gt; Loading Languages: [ Systems_&_Scripts ]</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ffff" />
+    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00ffff" />
+    <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00ffff" />
+    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ffff" />
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ffff" />
+    <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ffff" />
+    <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ffff" />
+    <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00ffff" />
+  </p>
 
-<p style="color: #00ffff; font-family: monospace;">&gt; Loading Infrastructure: [ Backend_&_Frameworks ]</p>
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=ccff00" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ccff00" />
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=ccff00" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=ccff00" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logoColor=ccff00" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ccff00" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=ccff00" />
-</p>
+  <p style="color: #00ffff; font-family: monospace; margin-top: 20px;">&gt; Loading Infrastructure: [ Backend_&_Frameworks ]</p>
+  <p>
+    <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=ccff00" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ccff00" />
+    <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=ccff00" />
+    <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=ccff00" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logoColor=ccff00" />
+    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ccff00" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=ccff00" />
+  </p>
 
-<p style="color: #00ffff; font-family: monospace;">&gt; Loading Network: [ Cloud_&_Databases ]</p>
-<p>
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=ff00ff" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff00ff" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ff00ff" />
-  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=ff00ff" />
-  <img src="https://img.shields.io/badge/RDBMS-000000?style=for-the-badge&logoColor=ff00ff" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logoColor=ff00ff" />
-</p>
+  <p style="color: #00ffff; font-family: monospace; margin-top: 20px;">&gt; Loading Network: [ Cloud_&_Databases ]</p>
+  <p>
+    <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=ff00ff" />
+    <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff00ff" />
+    <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ff00ff" />
+    <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=ff00ff" />
+    <img src="https://img.shields.io/badge/RDBMS-000000?style=for-the-badge&logoColor=ff00ff" />
+    <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logoColor=ff00ff" />
+  </p>
 
-<p style="color: #00ffff; font-family: monospace;">&gt; Loading Utilities: [ Ecosystem_&_Deployment ]</p>
-<p>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00f3ff" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00f3ff" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00f3ff" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00f3ff" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00f3ff" />
-  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00f3ff" />
-  <img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=00f3ff" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=00f3ff" />
-</p>
-
+  <p style="color: #00ffff; font-family: monospace; margin-top: 20px;">&gt; Loading Utilities: [ Ecosystem_&_Deployment ]</p>
+  <p>
+    <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00f3ff" />
+    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00f3ff" />
+    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00f3ff" />
+    <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00f3ff" />
+    <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00f3ff" />
+    <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00f3ff" />
+    <img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=00f3ff" />
+    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=00f3ff" />
+  </p>
 </div>
