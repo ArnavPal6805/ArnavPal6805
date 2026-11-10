@@ -2,40 +2,13 @@
   
 <table align="center" border="0" cellpadding="20" cellspacing="0" width="100%">
   <tr>
-    <td align="left" width="45%">
-<pre style="font-family: monospace; line-height: 1.1; font-size: 10px; letter-spacing: 0; color: #a3a3a3;">
-                  _..---*\NNNw*
-              _.;@M%%%%%MMNW&amp;*----._
-            /+|][@@@@@@@p-.MM%%%%%N\`\
-          //**/][@@@@@@@@@@@@p;%%%MM]|
-         /#/ /]%%@%%/]----@@][  -k||/
-         /  \%@@(]((@))@@] LlM@%||
-         |*` \@@@\--/@%] LlRM(%)
-          \\ @@@@@@@D[]%%%@@| /
-          \\-------%\%%@//|/#
-        .- \-------***h|//&amp;%
-       /=====-      |`**&amp; /%%%%%
-      /=====-       |&amp;%  /%%%%%%%
-     /              |   /%%%%%%%%
-    |     _.-*      |  /%%%%%%%%
-    | _.-*          | /@P@M`-
-    |-*              \&amp; &amp; ."|&amp;]ik@%%%%Hj
-    |               @ #! &amp;M,;j|KK%%%%%%,]
-    |              @j% #&amp; &amp;,;j]!KK%%%%%j]
-    |             @O] &amp;M %&amp;,;]|KM%%%%%%]
-   /              MB &amp;O] SH ||]MHH%%M%%%i||
-  /       _..-*`` HHHHHHHHHHHHHMMM%%%i| []
- /  _.-@@@@@@@MMHMHHM%HH%%%HHMHMHHHMMM%M%i]|]j w]|
-|_@@@@@@@@@@@M%%%HHHM%HH%%%HMHMHMHHMMM%,;.} []
-|@@@@@@@@@%%%HH%HHHH%HH%%%MHMHM%HMH% `jMN*|||
-|@@@%%%@%%M%H%%%HHHM%HH%%%HHHHHMM%l,jk@ |)
-@@MMMMMMM%MMHM%%%HHHH%HMMM%MH%MMMH`,@@@ `.!,,)]
-@MMMMMM%%%HH%%%HHMM%HMMM%%%i!`@@@!-@@@],,/
-@MMMMMM%%%MHMM%%%HHMM%HM%MHH @@@@-o@-@@}]:/
-MMMM%M%MMM%MMM%MMM%M%j''' @@@0/@@ -@@))))/
+    <td align="left" width="50%">
+<!-- The font-size and line-height are reduced to accommodate a 150-width ASCII image -->
+<pre style="font-family: monospace; line-height: 7px; font-size: 7px; letter-spacing: 0; color: #a3a3a3;">
+[ PASTE YOUR ascii_portrait.txt CONTENT HERE ]
 </pre>
     </td>
-    <td width="55%">
+    <td width="50%">
       <h1>Hi, I'm Arnav Pal! 👋</h1>
       <p><b>B.Tech CSE (AI) | SDE & Artificial Intelligence Architect</b></p>
       <p>I operate at the intersection of complex generative models and robust backend architectures. From engineering real-time data pipelines and reinforcement learning agents to unlocking new computer vision capabilities, I build highly optimized systems that manipulate complex data landscapes with precision.</p>
@@ -73,3 +46,45 @@ MMMM%M%MMM%MMM%MMM%M%j''' @@@0/@@ -@@))))/
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+#### ⚡ Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+#### 🛡️ Cloud, Databases & Architecture
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDBMS-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-0078D7?style=for-the-badge" />
+</p>
+
+#### 📜 Tools, Ecosystem & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCASCADE-000000?style=for-the-badge" />
+</p>
