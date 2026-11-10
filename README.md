@@ -1,67 +1,106 @@
 <div align="center">
-
-# 🌑 ＴＨＥ ＩＬＬＵＳＩＯＮ ＩＳ ＲＥＡＬＩＴＹ 🌑
-
-🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜🟦🟦🟦🟦<br>
-🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜🟦🟦<br>
-🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜🟦<br>
-🟦⬜⬜⬜⬜⬜⬜⬛⬛⬛⬜⬜⬜⬜⬜⬜🟦<br>
-⬜⬜⬜⬜⬜⬛⬜⬛⬛⬛⬜⬛⬜⬜⬜⬜⬜<br>
-⬜⬜⬜⬜⬜⬜⬛🟥⬛🟥⬛⬜⬜⬜⬜⬜⬜<br>
-⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜<br>
-⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜<br>
-🟦⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜🟦<br>
-🟦🟦⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜🟦🟦<br>
-🟦🟦🟦⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜🟦🟦🟦<br>
-🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛⬛⬛🟦🟦🟦🟦🟦<br>
-⬛⬛🟦🟦🟦🟦🟦⬛⬛⬛🟦🟦🟦🟦🟦⬛⬛<br>
-🟦🟦⬛⬛🟦🟦🟦⬛⬛⬛🟦🟦🟦⬛⬛🟦🟦<br>
-🟦🟦🟦🟦⬛⬛🟦⬛⬛⬛🟦⬛⬛🟦🟦🟦🟦<br>
-🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛🟦🟦🟦🟦🟦🟦🟦<br>
-🟦🟦🟦⬛⬛🟦🟦⬛⬛⬛🟦🟦⬛⬛🟦🟦🟦<br>
-🟦⬛⬛🟦🟦🟦🟦⬛⬛⬛🟦🟦🟦🟦⬛⬛🟦<br>
-🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛⬛⬛🟦🟦🟦🟦🟦<br>
-
-### ✧ ＡＲＮＡＶ ＰＡＬ ✧
-*"People live their lives bound by what they accept as correct and true. That is how they define 'Reality'."* 🦅
-
-**[ 🔗 LinkedIn ](https://linkedin.com/in/YOUR_LINKEDIN)** | **[ ✉️ pal.arnav68@gmail.com ](mailto:pal.arnav68@gmail.com)** | **[ 📱 +91 9380751527 ](tel:+919380751527)**
+  
+<table align="center" border="0" cellpadding="20" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" width="30%">
+<pre style="font-family: monospace; line-height: 1.2;">
+   /////////////
+  //           //
+ ///   ◉    ◉   ///
+ ///     ▵      ///
+  ///   ╰━━╯   ///
+   //         //
+    //////////
+      ||||||
+</pre>
+    </td>
+    <td width="70%">
+      <h1>Hi, I'm Arnav Pal! 👋</h1>
+      <p><b>B.Tech CSE (AI) | SDE & Artificial Intelligence Architect</b></p>
+      <p>I operate at the intersection of complex generative models and robust backend architectures. From engineering real-time data pipelines and reinforcement learning agents to unlocking new computer vision capabilities, I build optimized systems that turn complex data landscapes into reality.</p>
+      <p>
+        <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • 
+        <a href="mailto:pal.arnav68@gmail.com">Email</a> • 
+        <a href="tel:+919380751527">Phone</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📜 ＣＨＡＲＡＣＴＥＲ ＳＴＡＴＵＳ
+### 🎒 THE SKILL TREE
 
-> **Class:** B.Tech Computer Science and Engineering (AI) — *8.25/10 CGPA*  
-> **Guild:** Amrita School of Computing (2023–present)  
-> **Previous Faction:** Digital Technology Intern @ Creative Synergies Group  
-> **Alignment:** Full-Stack Development & Artificial Intelligence  
+#### 🧠 Artificial Intelligence, Machine Learning & Vision
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stable_Diffusion-5C3EE8?style=for-the-badge&logo=stablediffusion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-F7931E?style=for-the-badge&color=FFD21E" />
+  <img src="https://img.shields.io/badge/MediaPipe-00B4EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gymnasium-20232A?style=for-the-badge" />
+</p>
 
-### ⚔️ LORE (SUMMARY)
-I am an SDE and AI Architect who operates from the shadows to engineer real-time data pipelines and intelligent generative models. From constructing robust backend APIs to training reinforcement learning agents, I build highly optimized systems that manipulate complex data landscapes with precision. 
+#### 🔥 Languages & Core
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
----
+#### ⚡ Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+</p>
 
-## 🎒 ＮＩＮＪＵＴＳＵ ＆ ＳＫＩＬＬ ＴＲＥＥ
+#### 🛡️ Frontend & Web
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+</p>
 
-*   **🔥 Katon (Languages & Core):** `Python` `Java` `C++` `C` `SQL` `JavaScript` `HTML5/CSS3` `Bash`
-*   **👁️ Dojutsu (AI & Vision):** `PyTorch` `Stable Diffusion` `Transformers` `Computer Vision` `Gymnasium`
-*   **⚡ Raiton (Backend & Frameworks):** `FastAPI` `Flask` `Django` `Node.js` `Express.js` `React` `Tailwind CSS`
-*   **🛡️ Fuinjutsu (Cloud & Database Sealing):** `AWS` `PostgreSQL` `MongoDB` `Redis` `RDBMS`
-*   **📜 Summoning (Tools & Deployment):** `Docker` `Git` `Socket.IO` `Linux` `Postman` `Wireshark`[cite: 2]
+#### 💾 Cloud, Databases & Deployment
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
----
-
-## 🏆 Ｓ－ＲＡＮＫ ＭＩＳＳＩＯＮＳ (PROJECTS)
-
-*   **Generative Augmentation for Glaucoma Segmentation**[cite: 2]
-    *   Developed PyTorch segmentation pipelines (UNet, MobileNet) to delineate the optic disc and cup.
-    *   Engineered a Stable Diffusion inpainting engine to generate 600 anatomically locked synthetic retinal images.
-    *   Boosted MobileNet V2 Cup IoU to 0.81 and achieved 0.92 Disc IoU, overcoming medical data scarcity.
-*   **SpendWise: Personal Finance Management System**[cite: 2]
-    *   Built a full-stack expense app tracking using Python, FastAPI, React, TypeScript, PostgreSQL, and Docker.
-    *   Implemented CSV bank statement processing, anomaly tracking, and duplicate detection via RESTful APIs and containerized deployment.
-*   **Reinforcement Learning Rubik's Cube Solver**[cite: 2]
-    *   Constructed a Gymnasium environment containing 54 facelets and 18 move actions, training an agent via shaped rewards.
-    *   Bridged PyTorch reinforcement learning to an interactive 3D web
+#### 🛠️ OS, Tools & Ecosystem
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCASCADE-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+</p>
