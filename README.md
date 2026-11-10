@@ -2,27 +2,50 @@
   
 <table align="center" border="0" cellpadding="20" cellspacing="0" width="100%">
   <tr>
-    <td align="center" width="30%">
-<pre style="font-family: monospace; line-height: 1.2;">
-   /////////////
-  //           //
- ///   ◉    ◉   ///
- ///     ▵      ///
-  ///   ╰━━╯   ///
-   //         //
-    //////////
-      ||||||
+    <td align="left" width="45%">
+<pre style="font-family: monospace; line-height: 1.1; font-size: 10px; letter-spacing: 0; color: #a3a3a3;">
+                  _..---*\NNNw*
+              _.;@M%%%%%MMNW&amp;*----._
+            /+|][@@@@@@@p-.MM%%%%%N\`\
+          //**/][@@@@@@@@@@@@p;%%%MM]|
+         /#/ /]%%@%%/]----@@][  -k||/
+         /  \%@@(]((@))@@] LlM@%||
+         |*` \@@@\--/@%] LlRM(%)
+          \\ @@@@@@@D[]%%%@@| /
+          \\-------%\%%@//|/#
+        .- \-------***h|//&amp;%
+       /=====-      |`**&amp; /%%%%%
+      /=====-       |&amp;%  /%%%%%%%
+     /              |   /%%%%%%%%
+    |     _.-*      |  /%%%%%%%%
+    | _.-*          | /@P@M`-
+    |-*              \&amp; &amp; ."|&amp;]ik@%%%%Hj
+    |               @ #! &amp;M,;j|KK%%%%%%,]
+    |              @j% #&amp; &amp;,;j]!KK%%%%%j]
+    |             @O] &amp;M %&amp;,;]|KM%%%%%%]
+   /              MB &amp;O] SH ||]MHH%%M%%%i||
+  /       _..-*`` HHHHHHHHHHHHHMMM%%%i| []
+ /  _.-@@@@@@@MMHMHHM%HH%%%HHMHMHHHMMM%M%i]|]j w]|
+|_@@@@@@@@@@@M%%%HHHM%HH%%%HMHMHMHHMMM%,;.} []
+|@@@@@@@@@%%%HH%HHHH%HH%%%MHMHM%HMH% `jMN*|||
+|@@@%%%@%%M%H%%%HHHM%HH%%%HHHHHMM%l,jk@ |)
+@@MMMMMMM%MMHM%%%HHHH%HMMM%MH%MMMH`,@@@ `.!,,)]
+@MMMMMM%%%HH%%%HHMM%HMMM%%%i!`@@@!-@@@],,/
+@MMMMMM%%%MHMM%%%HHMM%HM%MHH @@@@-o@-@@}]:/
+MMMM%M%MMM%MMM%MMM%M%j''' @@@0/@@ -@@))))/
 </pre>
     </td>
-    <td width="70%">
+    <td width="55%">
       <h1>Hi, I'm Arnav Pal! 👋</h1>
       <p><b>B.Tech CSE (AI) | SDE & Artificial Intelligence Architect</b></p>
-      <p>I operate at the intersection of complex generative models and robust backend architectures. From engineering real-time data pipelines and reinforcement learning agents to unlocking new computer vision capabilities, I build optimized systems that turn complex data landscapes into reality.</p>
+      <p>I operate at the intersection of complex generative models and robust backend architectures. From engineering real-time data pipelines and reinforcement learning agents to unlocking new computer vision capabilities, I build highly optimized systems that manipulate complex data landscapes with precision.</p>
       <p>
         <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • 
         <a href="mailto:pal.arnav68@gmail.com">Email</a> • 
-        <a href="tel:+919380751527">Phone</a>
+        <a href="tel:+919380751527">Phone</a> • 
+        <a href="https://github.com/ArnavPal">GitHub</a>
       </p>
+      <p><i>"People live their lives bound by what they accept as correct and true. That is how they define 'Reality'."</i></p>
     </td>
   </tr>
 </table>
@@ -36,12 +59,8 @@
 #### 🧠 Artificial Intelligence, Machine Learning & Vision
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Stable_Diffusion-5C3EE8?style=for-the-badge&logo=stablediffusion&logoColor=white" />
   <img src="https://img.shields.io/badge/Transformers-HuggingFace-F7931E?style=for-the-badge&color=FFD21E" />
-  <img src="https://img.shields.io/badge/MediaPipe-00B4EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Reinforcement_Learning-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gymnasium-20232A?style=for-the-badge" />
@@ -54,53 +73,3 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
-#### ⚡ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-</p>
-
-#### 🛡️ Frontend & Web
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
-</p>
-
-#### 💾 Cloud, Databases & Deployment
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-#### 🛠️ OS, Tools & Ecosystem
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCASCADE-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-</p>
